@@ -1,0 +1,57 @@
+
+
+
+MONGO_URI->     mongodb+srv://dwtoddeng:Mp4#85%xk@cluster0.ttbhunh.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp
+
+************************************************************
+MyApp.js
+
+const mongoose = require( 'mongoose' );
+
+require('dotenv').config();
+
+mongoose.connect(process.env['MONGO_URI'], { useNewUrlParser: true, useUnifiedTopology: true });
+
+
+
+mongodb+srv://dwtoddeng:Mp4#85%xk@cluster0.ttbhunh.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+
+
+**************************************************
+
+mongoose.connect(process.env['MONGO_URI'], { useNewUrlParser: true, useUnifiedTopology: true });
+
+
+URI =>  mongodb+srv://petroman:hMThNeYz95SPYvSI@cluster0.ttbhunh.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+
+
+mongodb+srv://dwtoddeng:Mp4#85%xk@cluster0.2ip0azt.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp
+
+const uri = "mongodb+srv://dwtoddeng:Mp4#85%xk>@cluster0.2ip0azt.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp";
+
+mongodb+srv://dwtoddeng:Mp4#85%xk>@cluster0.2ip0azt.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp
+
+
+mongodb+srv://dwtoddeng:Mp4#85%xk@cluster0.2ip0azt.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp
+
+
+Mongoose FCC
+
+URI:  
+
+mongodb+srv://petroman:hMThNeYz95SPYvSI@cluster0.ttbhunh.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+
+mongodb+srv://dwtoddeng:Mp4#85%xk>@cluster0.2ip0azt.mongodb.net/URL Shortener Microservice?retryWrites=true&w=majority&appName=AtlasApp
+
+mongodb+srv://dwtoddeng:Mp4#85%xk@cluster0.2ip0azt.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+
+
+
+
+
+
+
+
+
+
+
